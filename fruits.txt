@@ -3,4 +3,3 @@ bananas
 cherries
 dragon fruits
 figs
-oranges
