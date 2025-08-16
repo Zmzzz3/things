@@ -1,1 +1,6 @@
 temp.txt
+*.class
+*.jar
+*.exe
+*.tmp
+.idea/
